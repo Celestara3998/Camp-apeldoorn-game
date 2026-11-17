@@ -5,8 +5,8 @@ TagManager:
   serializedVersion: 3
   tags:
   - ground
-  - enemy
   - KillBrick
+  - Enemy
   layers:
   - Default
   - TransparentFX
